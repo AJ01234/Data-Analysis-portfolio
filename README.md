@@ -26,7 +26,7 @@ b) [https://docs.google.com/spreadsheets/d/1ausKQciUYynVmtgKR6rEM-RDyVKPIcLHKDXu
 
 5.Cricket Analysis-
 
--> VIEW REPORT HERE [https://bvpit-my.sharepoint.com/:u:/g/personal/ajain20-cse_bvucoep_edu_in/EYSfjMwxN3xAjDZ4BJ5jXuYB2BDQ0hmnfpbdXnduzHC6qg?e=ZwhRIv]
+-> DOWNLOAD AND VIEW REPORT HERE [https://bvpit-my.sharepoint.com/:u:/g/personal/ajain20-cse_bvucoep_edu_in/EYSfjMwxN3xAjDZ4BJ5jXuYB2BDQ0hmnfpbdXnduzHC6qg?e=ZwhRIv]
 
                                                           OR
 
