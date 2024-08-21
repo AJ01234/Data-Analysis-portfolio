@@ -26,13 +26,13 @@ b) [https://docs.google.com/spreadsheets/d/1ausKQciUYynVmtgKR6rEM-RDyVKPIcLHKDXu
 
 5.Cricket Analysis[Microsoft Power BI]-
 
+-> view this pdf to view report directly [cricket report.pdf](https://github.com/user-attachments/files/16698319/cricket.report.pdf)
+
+                                                          OR
+                 
 -> DOWNLOAD AND VIEW REPORT HERE [https://bvpit-my.sharepoint.com/:u:/g/personal/ajain20-cse_bvucoep_edu_in/EYSfjMwxN3xAjDZ4BJ5jXuYB2BDQ0hmnfpbdXnduzHC6qg?e=ZwhRIv]
 
                                                           OR
 
 -> Download this folder to view data and dashboard [https://github.com/AJ01234/Data-Analysis-portfolio/tree/main/Cricket%20analysis]
 
-
-                                                          OR
-                                        
--> view this pdf [cricket report.pdf](https://github.com/user-attachments/files/16698319/cricket.report.pdf)
