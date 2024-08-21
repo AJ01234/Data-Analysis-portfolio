@@ -12,7 +12,7 @@ This is the collection of my projects and works done in data analysis:
 
 &
 
-*Pitch and Consultant*-[https://bvpit-my.sharepoint.com/:w:/g/personal/ajain20-cse_bvucoep_edu_in/EZpntE_nIX5Jnn-yO-KqufYBEfUbqkiDKeiCrzvI4r0_aA?e=wFSSvD]
+*Pitch and Consulted*-[https://bvpit-my.sharepoint.com/:w:/g/personal/ajain20-cse_bvucoep_edu_in/EZpntE_nIX5Jnn-yO-KqufYBEfUbqkiDKeiCrzvI4r0_aA?e=wFSSvD]
 
 
 **3. Freelance work [using excel anlysis]-**
