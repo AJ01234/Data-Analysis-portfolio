@@ -24,4 +24,12 @@ a) [https://docs.google.com/presentation/d/1BHwGdKwYYkLNuHtfnmm7KLSvBf-ZukfHI0n0
 b) [https://docs.google.com/spreadsheets/d/1ausKQciUYynVmtgKR6rEM-RDyVKPIcLHKDXufwS5yiQ/edit?usp=sharing]
 
 
-5.Cricket Analysis-  []
+5.Cricket Analysis-
+
+-> VIEW REPORT HERE [https://bvpit-my.sharepoint.com/:u:/g/personal/ajain20-cse_bvucoep_edu_in/EYSfjMwxN3xAjDZ4BJ5jXuYB2BDQ0hmnfpbdXnduzHC6qg?e=ZwhRIv]
+
+                                                          OR
+
+-> Download this folder to view data and dashboard [https://github.com/AJ01234/Data-Analysis-portfolio/tree/main/Cricket%20analysis]
+
+                                        
