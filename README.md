@@ -1,5 +1,5 @@
 # Data-Analysis-portfolio
-[Remember to open links in a new tab to avoid closing the repository by mistake]
+[Remember to open links in a new tabs to avoid closing the repository by mistake]
 
 >This is the collection of my projects and works done in data analysis:
 
