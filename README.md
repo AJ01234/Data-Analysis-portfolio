@@ -10,6 +10,7 @@ In this, I visualized the data of the store name Superstore 360 by cleaning, tra
 **2. Ghost Kitchen India Pvt. Ltd Sales Dump Funnel [Business Analysis and Consultation]-**
 
 The ASSIGNMENT link contains a spreadsheet which was my task that I completed and the PITCH AND CONSULTED link contains a document I created for the company on how to boost their sales by identifying the pain points of their company, the Business they are in, and analyzing their sales trend and funnel.
+
 *Assignment*-[https://docs.google.com/spreadsheets/d/1Op3jJUZQKZdGai2eO9STkyky7md40eirVUIoUopbvFM/edit?usp=sharing]
 
 &
