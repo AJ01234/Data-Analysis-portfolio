@@ -34,11 +34,10 @@ The ASSIGNMENT link contains a spreadsheet which was my task that I completed an
 
 **3. Freelance work [using Excel Anlysis]-**
 
-These were the freelance work I did for individuals by finding leads online.
+This was the freelance work I did for an individual by finding lead online.
 
-a) [https://bvpit-my.sharepoint.com/:x:/g/personal/ajain20-cse_bvucoep_edu_in/EZ3J5gwpe5JDjwVNuccVuFUBuxKYQSJVDg08Q8Dui2Ms-g?e=apkAiT]
+ [https://bvpit-my.sharepoint.com/:x:/g/personal/ajain20-cse_bvucoep_edu_in/EZ3J5gwpe5JDjwVNuccVuFUBuxKYQSJVDg08Q8Dui2Ms-g?e=apkAiT]
 
-b) [https://bvpit-my.sharepoint.com/:x:/g/personal/ajain20-cse_bvucoep_edu_in/ESd2bc4u9YVKscLPFYFGoXUBMzg6MzW_3RXUSgmPtgcgbQ?e=5CEgkv&nav=MTVfezcyMjNDMDM1LUZDMTYtNDE3QS05ODNGLTYyNzAzNjk1MkNFRn0]
 
 |
 
